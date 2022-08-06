@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IcaroMarcucci
+- 👀 I’m interested in learn more about programming
+- 🌱 I’m currently learning Python, HTML5 and CSS3
+- 📫 How to reach me [WhatsApp](wa.me/5519983431976) or [E-mail](mailto:icaro.marcucci@gmail.com)
