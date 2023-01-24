@@ -2,7 +2,7 @@
 
 - 👋 Hello there! I’m Icaro Marcucci
 - 🛡️ I’m studying and learning more about programming
-- ⚔️ I’m currently learning Python, Ruby, HTML5 and CSS3
+- ⚔️ I’m currently learning Java and Python
 
 ##
 
