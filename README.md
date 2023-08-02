@@ -4,6 +4,7 @@
 </h1>
 
 <p align="center"> I'm currently learning more about:
+<br>🛡️ Cybersecurity 🛡️
 <br>☕ Java ☕
 <br>🐍 Python 🐍
 <br>
