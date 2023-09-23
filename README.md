@@ -5,7 +5,6 @@
 
 <p align="center"> I'm currently learning more about:
 <br>🛡️ Cybersecurity 🛡️
-<br>☕ Java ☕
 <br>🐍 Python 🐍
 <br>
 <br>⚔️  I love RPG games and technology, always looking to upgrade my knowledge ⚔️ 
