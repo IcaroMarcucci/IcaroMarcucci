@@ -3,12 +3,9 @@
 👋 Hello there! I’m Icaro Marcucci
 </h1>
 
-<p align="center"> I'm currently learning more about:
+<p align="center">
 <br>🛡️ Cybersecurity 🛡️
-<br>🐍 Python 🐍
 <br>
-<br>⚔️  I love RPG games and technology, always looking to upgrade my knowledge ⚔️ 
-<br>💻 Studying Computer Science - UAM 💻
 
 <div align="center">
  	<a href = "mailto:icaro.marcucci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
